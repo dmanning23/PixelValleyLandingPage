@@ -10,6 +10,9 @@ export const Gallery = (props) => {
           <p>
             Check out these Pixel Valleys!
           </p>
+          <p>
+            Click through to explore each scenario
+          </p>
         </div>
         <div className="row">
           <div className="portfolio-items">
