@@ -22,6 +22,7 @@ export const Gallery = (props) => {
                     <Image
                       title={d.title}
                       description={d.description}
+                      id={d.id}
                       largeImage={d.largeImage}
                       smallImage={d.smallImage}
                     />
