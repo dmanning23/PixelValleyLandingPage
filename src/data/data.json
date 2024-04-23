@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Welcome to Pixel Valley",
+    "paragraph": "An enchanting AI-driven village simulator where Autonomous Generative Agents come to life, and stories unfold in a cozy, virtual haven"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -20,49 +20,49 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Tortuga",
+      "largeImage": "img/portfolio/Tortuga-lg.png",
+      "smallImage": "img/portfolio/Tortuga-sm.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Athens",
+      "largeImage": "img/portfolio/Athens-lg.png",
+      "smallImage": "img/portfolio/Athens-sm.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Atlantis",
+      "largeImage": "img/portfolio/Atlantis-lg.png",
+      "smallImage": "img/portfolio/Atlantis-sm.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Spooksville",
+      "largeImage": "img/portfolio/Spooksville-lg.png",
+      "smallImage": "img/portfolio/Spooksville-sm.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Pemberley",
+      "largeImage": "img/portfolio/Pemberley-lg.png",
+      "smallImage": "img/portfolio/Pemberley-sm.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "New Mars",
+      "largeImage": "img/portfolio/NewMars-lg.png",
+      "smallImage": "img/portfolio/NewMars-sm.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Neo Tokyo",
+      "largeImage": "img/portfolio/NeoTokyo-lg.png",
+      "smallImage": "img/portfolio/NeoTokyo-sm.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Swoleville",
+      "largeImage": "img/portfolio/Swoleville-lg.png",
+      "smallImage": "img/portfolio/Swoleville-sm.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Faroes",
+      "largeImage": "img/portfolio/Faroes-lg.png",
+      "smallImage": "img/portfolio/Faroes-sm.png"
     }
   ],
   "Services": [
@@ -161,24 +161,25 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
+        "icon": "fa fa-magic",
+        "title": "Endless Possibilities",
+        "text": "From just a short prompt, Pixel Valley can create an entire virtual city that players can explore and interact with."
+      },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Compelling Stories",
+      "text": "Each character has a story to tell, and the village evolves based on the choices and interactions of its inhabitants."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-lightbulb-o",
+      "title": "AI-Powered Dynamics",
+      "text": "Pixel Valley is an exploration of how players and AI can work together for the player to express their personality and create an emergent story."
+    },
+    {
+      "icon": "fa fa-picture-o",
+      "title": "Pixel Perfection",
+      "text": "Immerse yourself in the delightful pixel art that brings Pixel Valley to life."
     }
+    
   ]
 }
