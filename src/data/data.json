@@ -21,46 +21,55 @@
   "Gallery": [
     {
       "title": "Tortuga",
+      "description": "A bustling and lively community located on a remote island in the Caribbean",
       "largeImage": "img/portfolio/Tortuga-lg.png",
       "smallImage": "img/portfolio/Tortuga-sm.png"
     },
     {
       "title": "Athens",
+      "description": "Small ancient Greek village, nestled among rolling hills and olive groves, life unfolds at a leisurely pace",
       "largeImage": "img/portfolio/Athens-lg.png",
       "smallImage": "img/portfolio/Athens-sm.png"
     },
     {
       "title": "Atlantis",
+      "description": "The mythical island civilization thrives beneath the crystal-clear waters of the ocean",
       "largeImage": "img/portfolio/Atlantis-lg.png",
       "smallImage": "img/portfolio/Atlantis-sm.png"
     },
     {
       "title": "Spooksville",
+      "description": "A small and isolated village stood shrouded in mystery and darkness",
       "largeImage": "img/portfolio/Spooksville-lg.png",
       "smallImage": "img/portfolio/Spooksville-sm.png"
     },
     {
       "title": "Pemberley",
+      "description": "The cobblestone streets are lined with charming cottages adorned with colorful flower gardens",
       "largeImage": "img/portfolio/Pemberley-lg.png",
       "smallImage": "img/portfolio/Pemberley-sm.png"
     },
     {
       "title": "New Mars",
+      "description": "Towering skyscrapers made of sleek, reflective materials rise into the sky, gleaming under the glow of neon lights that illuminate the bustling streets below",
       "largeImage": "img/portfolio/NewMars-lg.png",
       "smallImage": "img/portfolio/NewMars-sm.png"
     },
     {
       "title": "Neo Tokyo",
+      "description": "A marvel of advanced technology and neon-lit skyscrapers that pierce the night sky",
       "largeImage": "img/portfolio/NeoTokyo-lg.png",
       "smallImage": "img/portfolio/NeoTokyo-sm.png"
     },
     {
       "title": "Swoleville",
+      "description": "Secluded haven offering the Founding Fathers a place to escape the rigors of politics and focus on rigorous workouts and weightlifting sessions",
       "largeImage": "img/portfolio/Swoleville-lg.png",
       "smallImage": "img/portfolio/Swoleville-sm.png"
     },
     {
       "title": "Faroes",
+      "description": "Viking fishing village in the Arctic Circle, nestled along the icy shores of a rugged fjord, surrounded by towering snow-capped mountains",
       "largeImage": "img/portfolio/Faroes-lg.png",
       "smallImage": "img/portfolio/Faroes-sm.png"
     }
