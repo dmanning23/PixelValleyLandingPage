@@ -16,15 +16,15 @@ export const Contact = (props) => {
   };
   const clearState = () => setState({ ...initialState });
   
-  
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(name, email, message);
+    console.log(e.target);
     
     {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
     
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm("service_6jx6rfl", "template_39vu735", e.target, "zGhKP4I44VU5Gi6rO")
       .then(
         (result) => {
           console.log(result.text);
@@ -42,10 +42,7 @@ export const Contact = (props) => {
           <div className="col-md-8">
             <div className="row">
               <div className="section-title">
-                <h2>(Don't) Get In Touch</h2>
-                <p>
-                  Sorry, none of this works yet!
-                </p>
+                <h2>Get In Touch</h2>
                 <p>
                   Please fill out the form below to send us an email and we will
                   get back to you as soon as possible.
@@ -58,7 +55,7 @@ export const Contact = (props) => {
                       <input
                         type="text"
                         id="name"
-                        name="name"
+                        name="user_name"
                         className="form-control"
                         placeholder="Name"
                         required
@@ -72,7 +69,7 @@ export const Contact = (props) => {
                       <input
                         type="email"
                         id="email"
-                        name="email"
+                        name="user_email"
                         className="form-control"
                         placeholder="Email"
                         required
@@ -133,18 +130,13 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
-                      <i className="fa fa-facebook"></i>
+                    <a href={props.data ? props.data.github : "/"}>
+                      <i className="fa fa-github"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-twitter"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
+                    <a href={props.data ? props.data.linkedin : "/"}>
+                      <i className="fa fa-linkedin"></i>
                     </a>
                   </li>
                 </ul>
